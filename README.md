@@ -1,9 +1,9 @@
 # Word-Scrambler-Game
-THIS IS A WORD SCRAMBLE GAME WHERE PLAYERS HAVE TO UNSCRAMBLE LETTERS TO FORM WORDS. THE GAME INVOLVES SELECTING LETTERS IN THE CORRECT ORDER TO COMPLETE A WORD. PLAYERS NEED TO BE CAREFUL, AS CLICKING ON THE WRONG LETTER RESULTS IN LOSS OF LIVES.
+This is a word scramble game where players have to unscramble letters to form words. The game involves selecting letters in the correct order to complete a word. Players need to be careful, as clicking on the wrong letter results in the loss of lives.
 # Features
-- MULTIPLE LEVELS OF INCREASING DIFFICULTY
-- SCRAMBLED WORDS TO UNSCRAMBLE IN EACH LEVEL
-- SCORING SYSTEM : EARN POINTS FOR EACH CORRECTLY COMPLETED WORD
-- USER LOGIN SYSTEM TO TRACK INDIVIDUAL SCORING RECORDS
-- LIVES SYSTEM : THREE LIVES AT THE START, AND ONE LIFE LOST FOR EACH INCORRECT LETTER
-- VISUAL FEEDBACK FOR CORRECT AND INCORRECT LETTER SELECTIONS
+- Multiple Levels: Progress through levels of increasing difficulty.
+- Scrambled Words: Unscramble words unique to each level.
+- Scoring System: Earn points for each correctly completed word.
+- User Login System: Track and compete for high scores with individual user accounts.
+- Lives System: Start with three lives; lose one for each incorrect letter.
+- Visual Feedback: Receive visual cues for correct and incorrect letter selections.
